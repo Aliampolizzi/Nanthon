@@ -8,4 +8,3 @@ Potential directions of focus include:
      *  Machine learning
         *
      *
-     
